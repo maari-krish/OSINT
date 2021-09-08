@@ -1,0 +1,11 @@
+requests
+PIL
+gmplot
+bs4
+textblob
+beautifulsoup4
+urllib3
+urllib
+pprint
+webbrowser
+cfscrape
