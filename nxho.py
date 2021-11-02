@@ -26,30 +26,18 @@ print(colored("""
 print(colored("𝓒𝓸𝓭𝓮𝓭 𝓑𝔂 𝓣𝓮𝓪𝓶  𝓝𝓧𝓗𝓞 \n","blue"))
 
 menu_option="""
-[1]Whois Lookup
-[2]Domain Ip History
-[3]Ip Location Finder
-[4]ping
-[5]Traceroute
-[6]Mac Address Lookup
-[7]Phone No Information
-[8]Free Email Lookup
-[9]Get HTTP Headers
-[10]Extract Link From Page
-[11]Reverse Google Analytics Search
-[12]Reverse IP Lookup
-[13]Reverse MX Lookup
-[14]Reverse NS Lookup
-[15]Reverse DNS Lookup
-[16]Port Scanner
-[17]DNS Record Lookup Type A
-[18]DNS Record Lookup Type MX
-[19]DNS Propagation Checker
-[20]Spam Database Lookup Test
-[21]Host Header Injection
-[22]Clickjacking
-[23]Reverse Imagesearch
-[24]Exit
+[1]Whois Lookup                          [2]Domain Ip History
+[3]Ip Location Finder                    [4]ping
+[5]Traceroute                            [6]Mac Address Lookup
+[7]Phone No Information                  [8]Free Email Lookup
+[9]Get HTTP Headers                      [10]Extract Link From Page
+[11]Reverse Google Analytics Search      [12]Reverse IP Lookup
+[13]Reverse MX Lookup                    [14]Reverse NS Lookup
+[15]Reverse DNS Lookup                   [16]Port Scanner
+[17]DNS Record Lookup Type A             [18]DNS Record Lookup Type MX
+[19]DNS Propagation Checker              [20]Spam Database Lookup Test
+[21]Host Header Injection                [22]Clickjacking
+[23]Reverse Imagesearch                  [24]Exit
 """
 
 print(colored(menu_option,"magenta"))
