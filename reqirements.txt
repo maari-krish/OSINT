@@ -1,6 +1,5 @@
 requests
 PIL
-gmplot
 bs4
 textblob
 beautifulsoup4
