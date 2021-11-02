@@ -1,7 +1,6 @@
 import requests
 import json
 import urllib.request
-import gmplot
 import webbrowser
 import cfscrape
 import urllib3
